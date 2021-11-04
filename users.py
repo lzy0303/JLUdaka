@@ -1,8 +1,8 @@
 users = [
         {
-            'username': 'zylu21',
-            'password': 'lu1192753286',
-            'grade': 'YJS',
+            'username': '',
+            'password': '',
+            'grade': '',
         }
         #You can add more here
 ]
